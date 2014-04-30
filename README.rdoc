@@ -1,1 +1,3 @@
 == Following the Michael Hartl tutorial. 
+
+# The demo app consists of users and their associated microposts (thus constituting a minimalist Twitter-style app)
